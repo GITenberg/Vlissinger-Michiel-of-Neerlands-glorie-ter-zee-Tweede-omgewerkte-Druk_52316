@@ -1,0 +1,27 @@
+_repo: Vlissinger-Michiel-of-Neerlands-glorie-ter-zee-Tweede-omgewerkte-Druk_52316
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Louwerse, Pieter
+    alias: Louwerse, P.
+    birthdate: 1840
+    deathdate: 1909
+    gutenberg_agent_id: '3977'
+    url: http://www.gutenberg.org/2009/agents/3977
+    wikipedia: http://nl.wikipedia.org/wiki/Pieter_Louwerse
+description: ''
+gutenberg_issued: '2016-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52316'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Ruyter, Michiel Adriaanszoon de, 1607-1676 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Vlissinger Michiel, of Neerlands glorie ter zee: Tweede omgewerkte Druk.'
+url: http://www.gutenberg.org/ebooks/52316
