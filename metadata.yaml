@@ -1,5 +1,8 @@
 _repo: Vlissinger-Michiel-of-Neerlands-glorie-ter-zee-Tweede-omgewerkte-Druk_52316
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52316-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Louwerse, Pieter
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3977
     wikipedia: http://nl.wikipedia.org/wiki/Pieter_Louwerse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52316#Vlissinger-Michiel-of-Neerlands-glorie-ter-zee-Tweede-omgewerkte-Druk
 gutenberg_issued: '2016-06-12'
 gutenberg_type: Text
 identifiers:
